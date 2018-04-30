@@ -17,6 +17,10 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^1.8.4"
+    "electron": "^1.8.4",
+    "electron-builder": "^20.10.0"
+  },
+  "dependencies": {
+    "electron-updater": "^2.21.8"
   }
 }
